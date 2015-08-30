@@ -26,6 +26,7 @@ h1{
 di
 div ul li{
     display:inline-block;
+    margin:30px;
 }
 div ul li a{
     color:#444;
