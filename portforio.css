@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:YuGothic,"游ゴシック","メイリオ",Meiryo,"ヒラギノ角ゴ Pro W3","Hiragino kaku gothic Pro",sans-serif;
+    font-size:18px;
+    font-weight:bold;
+}
+html{
+    background-image:url(pocho.jpg);
+    background-position:180px 0 0 0;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color:#000;
+}
+
+h1{
+    color:#000;
+    font-size:300%;
+    background-color:white;
+    padding:10px;
+    margin:500px 0 0 0;
+    text-align:10px 0 0 0;
+}
+di
+div ul li{
+    display:inline-block;
+}
+div ul li a{
+    color:#444;
+    margin:30px;
+}
