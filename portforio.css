@@ -16,19 +16,56 @@ html{
 }
 
 h1{
-    color:#000;
+    color:#222;
     font-size:300%;
     background-color:white;
     padding:10px;
     margin:500px 0 0 0;
     text-align:10px 0 0 0;
+    text-shadow:5px 5px 0 #888;
 }
-di
-div ul li{
-    display:inline-block;
+.menu{
+    width:2000px;
+}
+div.menu ul li{
+    float:left;
+    display:inline;
+    margin:0;
+    padding:0;
+    position:relative;
+    top:-22px;
+    left:-125px;
+}
+div.menu ul li a:hover{
+    text-shadow:2px 2px 0 #222;
+}
+div.menu ul li a{
+    color:#888;
+    margin:10px 40px;
+    text-decoration:none;
+    
+}
+
+.grid{
+    width:2000px;
+}
+.grid ul li{
+    position:relative;
+    top:-130px;
+    left:550px;
+    margin:0;
+    padding:-200px 0 0 -300px;
+    float:left;
+    list-style:none;
+    text-align:center;
+}
+.grid ul li img{
+    width:100px;
+    height:100px;
     margin:30px;
 }
-div ul li a{
-    color:#444;
-    margin:30px;
+
+img.tab{
+    width:70px;
+    height:70px;
 }
