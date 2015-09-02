@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:#ddd;
+    border-style:solid;
+    border-width:10px;
+    border-color:#1bb01b;
+     font-family:YuGothic,"游ゴシック","メイリオ",Meiryo,"ヒラギノ角ゴ Pro W3","Hiragino kaku gothic Pro",sans-serif;
+    font-size:18px;
+    font-weight:bold;
+    max-height:1000px;
+}
+.abc img{
+    width:50%;
+    height:200%;
+    float:right;
+}
+.container img{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
+.bbb p{
+    line-height:300px;
+    text-align:center;
+    font-size:25px;
+    padding:-900px 0 0 900px;
+    position:relative;
+    top:-900px;
+}

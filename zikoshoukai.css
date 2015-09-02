@@ -46,3 +46,23 @@ section{
 .bcd{
     color:#fff27b;
 }
+footer{
+    max-width:130px;
+    text-align:center;
+    border-radius:5px;
+    margin:0;
+    top:-30px;
+}
+footer a{
+    color:#000;
+    background-color:#FFF27B;
+    letter-spacing:0.1em;
+    background-position:relative;
+    top:-20px;
+    left:10px;
+    border-radius:10px;
+    text-decoration:none;
+}
+footer:hover{
+    color:#90ee90;
+}
